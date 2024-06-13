@@ -26,31 +26,41 @@ Following the link provided, I was able to access the download link for vs code 
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
 
 From this Git's official documentation (https://www.git-scm.com/download/win), I downloaded the 64bit standalone installer. I then accessed the  downloaded folder (Git-2.45.2-64-bit) and installed. 
-![alt text](image-2.png) This confirms whether the installation was successful.
-![alt text](image-3.png) This is to configure Git.
-![alt text](image-4.png) I created a GitHub account.
-![alt text](image-5.png) A git repository with a readme commit.
+![alt text](image-2.png) 
+This confirms whether the installation was successful.
+![alt text](image-3.png)
+This is to configure Git.
+![alt text](image-4.png) 
+I created a GitHub account.
+![alt text](image-5.png) 
+A git repository with a readme commit.
 
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
 
 From the link provided, I was able to download python for windows and install.
-![alt text](image-6.png) I then confirmed whether the path has been set correctly in the user variables.
-![alt text](image-7.png) This confirms that the pyhton installation was successful.
+![alt text](image-6.png) 
+I then confirmed whether the path has been set correctly in the user variables.
+![alt text](image-7.png) 
+This confirms that the pyhton installation was successful.
 
 5. Install Package Managers:
    If applicable, install package managers like pip (Python).
 
-   ![alt text](image-9.png) This confirms that pip is successfully installed.
+   ![alt text](image-9.png) 
+   This confirms that pip is successfully installed.
 
 6. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
 
    From the link provided above I was able to download the 32bit installer for windows. I then accessed the downloaded folder (mysql-installer-community-8.0.37.0) and followed the steps provided in the documentation (https://phoenixnap.com/kb/install-mysql-on-windows) to install.
    Since I chose server only in the setup type, I also downloaded (mysql-workbench-community-8.0.36-winx64) and installed MySQL Workbench separately.
-   ![alt text](image-8.png) I the ran these commands to start the server for the first time and shut it down.
-   ![alt text](image-10.png) This confirms the MySQL command line client is running and was able to show a previously created database.
-   ![alt text](image-11.png) MySQL Workbench is also running.
+   ![alt text](image-8.png)
+    I the ran these commands to start the server for the first time and shut it down.
+   ![alt text](image-10.png) 
+   This confirms the MySQL command line client is running and was able to show a previously created database.
+   ![alt text](image-11.png) 
+   MySQL Workbench is also running.
 
 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
@@ -60,7 +70,6 @@ From the link provided, I was able to download python for windows and install.
 
    ![alt text](image-12.png) ![alt text](image-13.png)
    These are the extensions currently installed in Visual Studio Code.
-   ![alt text](image-13.png)
 
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
