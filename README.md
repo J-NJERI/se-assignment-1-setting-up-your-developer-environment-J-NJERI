@@ -19,7 +19,7 @@ This assignment aims to familiarize you with the tools and configurations necess
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
 
-Following the link provided, I was able to access the download link for vs code in Windows. I then ran VSCodeUserSetup-x64-1.89.1 (the downloaded folder) as administrator. The next steps are setting up then installinn and finally launching the app.After launching, I set my preferences and installed basic extensions. The image below shows my running visual studio code.
+Following the link provided, I was able to access the download link for vs code in Windows. I then ran VSCodeUserSetup-x64-1.89.1 (the downloaded folder) as administrator. The next steps are setting up then installing and finally launching the app. After launching, I set my preferences and installed basic extensions. The image below shows my running visual studio code.
 ![alt text](image-1.png)
 
 3. Set Up Version Control System:
